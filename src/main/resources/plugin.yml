@@ -1,0 +1,15 @@
+name: StatsAPI
+version: '${project.version}'
+main: dev.teraprath.stats.Main
+api-version: 1.19
+authors: [ TerryGHG ]
+softdepend: [ PointsAPI ]
+commands:
+  stats:
+    description: Show statistics of player
+    permission: stats.show
+  astats:
+    description: Edit statistics of player
+    aliases:
+      - as
+    permission: stats.admin

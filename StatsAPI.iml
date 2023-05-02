@@ -32,6 +32,6 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.gson:gson:2.8.9" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: net.md-5:bungeecord-chat:1.16-R0.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.yaml:snakeyaml:1.30" level="project" />
-    <orderEntry type="library" name="Maven: com.github.teraprath:PointsAPI:1.2.5-STABLE" level="project" />
+    <orderEntry type="library" name="Maven: com.github.teraprath:PointsAPI:1.2.7-STABLE" level="project" />
   </component>
 </module>

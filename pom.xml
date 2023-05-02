@@ -6,7 +6,7 @@
 
     <groupId>dev.teraprath</groupId>
     <artifactId>stats</artifactId>
-    <version>1.2.0-STABLE</version>
+    <version>1.2.1-STABLE</version>
     <packaging>jar</packaging>
 
     <name>StatsAPI</name>
@@ -78,7 +78,7 @@
         <dependency>
             <groupId>com.github.teraprath</groupId>
             <artifactId>PointsAPI</artifactId>
-            <version>1.2.5-STABLE</version>
+            <version>1.2.7-STABLE</version>
         </dependency>
     </dependencies>
 </project>
