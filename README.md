@@ -14,7 +14,7 @@
 - MySQL-Support
 - Stats Command (100% Configurable)
 - Kills, Deaths, Wins, Loses, Played Games, Streaks & Game Points
-- Support for [PointsAPI](https://github.com/teraprath/PointsAPI/releases/latest)
+- Compatible with [PointsAPI](https://github.com/teraprath/PointsAPI/releases/latest)
 
 ## Implementation
 
